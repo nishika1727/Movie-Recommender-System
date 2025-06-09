@@ -1,7 +1,3 @@
-Certainly! Here’s a complete, well-structured description for your GitHub README based on your project details:
-
----
-
 # Movie Recommender System
 
 This project is a **content-based movie recommender system** built in Python using the TMDB dataset, which contains over 5,000 movies. The goal is to help users discover movies similar to their favorites by analyzing movie metadata and features.
@@ -34,7 +30,3 @@ The recommender analyzes movie features such as genres, keywords, cast, and crew
 * Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 * Streamlit for the web interface
 * PyCharm IDE for development
-
----
-
-Feel free to ask if you want me to draft installation instructions, contribution guidelines, or add screenshots!
